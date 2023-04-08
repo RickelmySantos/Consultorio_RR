@@ -1,0 +1,1 @@
+Fiz o import do banco de dados, para você conseguir rodar o projeto em seu ambiente, basta importa o arquivo que se encontra na pasta "Banco".
